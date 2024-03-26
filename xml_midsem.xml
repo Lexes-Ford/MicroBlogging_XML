@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xml.xsl"?>
+<blog>
+    <posts>
+        <post id="1">
+            <source>www.ghanaweb.com</source>
+            <content>Lilian Kumah, the widow of the Deputy Minister of Finance, John Kumah, has expressed deep concerns 
+                over theories that her husband was poisoned to death.
+            </content>
+            <timestamp>2024-03-12T08:11:47+00:00</timestamp>
+        </post>
+        <post id="2">
+            <source>www.ghanaweb.com</source>
+            <content>Ghanaian swimmer, Abeiku Jackson won his second medal at the 2023 African Games on Tuesday, March 12, 2024.</content>
+            <timestamp>2024-03-12T11:00:25+00:00</timestamp>
+        </post>
+        <post id="3">
+            <source>www.ghanaweb.com</source>
+            <content>Parliament's debate on the State of the Nation Address (SONA) was suspended for an hour on March 11 due to rising 
+                tensions over a statement by the Majority Leader, Alexander Afenyo-Markin.
+            </content>
+            <timestamp>2024-03-12T05:06:37+00:00</timestamp>
+        </post>
+    </posts>
+</blog>
